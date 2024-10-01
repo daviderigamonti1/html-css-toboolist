@@ -47,3 +47,8 @@
     line-height: 5px;
     border-radius: 50%;
 }
+
+h1 {
+    display: inline-block;
+}
+
